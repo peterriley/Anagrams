@@ -1,0 +1,17 @@
+C:\Users\peter\source\repos\katas\PeterKatas\Anagrams\Anagrams.Tests\obj\Debug\netcoreapp2.2\Anagrams.Tests.csprojAssemblyReference.cache
+C:\Users\peter\source\repos\katas\PeterKatas\Anagrams\Anagrams.Tests\obj\Debug\netcoreapp2.2\Anagrams.Tests.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\katas\PeterKatas\Anagrams\Anagrams.Tests\obj\Debug\netcoreapp2.2\Anagrams.Tests.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\katas\PeterKatas\Anagrams\Anagrams.Tests\obj\Debug\netcoreapp2.2\Anagrams.Tests.AssemblyInfo.cs
+C:\Users\peter\source\repos\katas\PeterKatas\Anagrams\Anagrams.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\peter\source\repos\katas\PeterKatas\Anagrams\Anagrams.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\peter\source\repos\katas\PeterKatas\Anagrams\Anagrams.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\peter\source\repos\katas\PeterKatas\Anagrams\Anagrams.Tests\bin\Debug\netcoreapp2.2\Anagrams.Tests.deps.json
+C:\Users\peter\source\repos\katas\PeterKatas\Anagrams\Anagrams.Tests\bin\Debug\netcoreapp2.2\Anagrams.Tests.runtimeconfig.json
+C:\Users\peter\source\repos\katas\PeterKatas\Anagrams\Anagrams.Tests\bin\Debug\netcoreapp2.2\Anagrams.Tests.runtimeconfig.dev.json
+C:\Users\peter\source\repos\katas\PeterKatas\Anagrams\Anagrams.Tests\bin\Debug\netcoreapp2.2\Anagrams.Tests.dll
+C:\Users\peter\source\repos\katas\PeterKatas\Anagrams\Anagrams.Tests\bin\Debug\netcoreapp2.2\Anagrams.Tests.pdb
+C:\Users\peter\source\repos\katas\PeterKatas\Anagrams\Anagrams.Tests\bin\Debug\netcoreapp2.2\Anagrams.dll
+C:\Users\peter\source\repos\katas\PeterKatas\Anagrams\Anagrams.Tests\bin\Debug\netcoreapp2.2\Anagrams.pdb
+C:\Users\peter\source\repos\katas\PeterKatas\Anagrams\Anagrams.Tests\obj\Debug\netcoreapp2.2\Anagrams.Tests.csproj.CopyComplete
+C:\Users\peter\source\repos\katas\PeterKatas\Anagrams\Anagrams.Tests\obj\Debug\netcoreapp2.2\Anagrams.Tests.dll
+C:\Users\peter\source\repos\katas\PeterKatas\Anagrams\Anagrams.Tests\obj\Debug\netcoreapp2.2\Anagrams.Tests.pdb

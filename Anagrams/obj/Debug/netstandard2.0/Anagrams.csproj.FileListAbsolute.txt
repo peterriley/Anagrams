@@ -1,0 +1,9 @@
+C:\Users\peter\source\repos\katas\PeterKatas\Anagrams\Anagrams\bin\Debug\netstandard2.0\Anagrams.deps.json
+C:\Users\peter\source\repos\katas\PeterKatas\Anagrams\Anagrams\bin\Debug\netstandard2.0\Anagrams.dll
+C:\Users\peter\source\repos\katas\PeterKatas\Anagrams\Anagrams\bin\Debug\netstandard2.0\Anagrams.pdb
+C:\Users\peter\source\repos\katas\PeterKatas\Anagrams\Anagrams\obj\Debug\netstandard2.0\Anagrams.csprojAssemblyReference.cache
+C:\Users\peter\source\repos\katas\PeterKatas\Anagrams\Anagrams\obj\Debug\netstandard2.0\Anagrams.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\katas\PeterKatas\Anagrams\Anagrams\obj\Debug\netstandard2.0\Anagrams.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\katas\PeterKatas\Anagrams\Anagrams\obj\Debug\netstandard2.0\Anagrams.AssemblyInfo.cs
+C:\Users\peter\source\repos\katas\PeterKatas\Anagrams\Anagrams\obj\Debug\netstandard2.0\Anagrams.dll
+C:\Users\peter\source\repos\katas\PeterKatas\Anagrams\Anagrams\obj\Debug\netstandard2.0\Anagrams.pdb
